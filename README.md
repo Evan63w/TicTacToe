@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This game was coded using React as part of a tutorial to familiarize myself with React and JavaScript.
 
 ## Available Scripts
 
